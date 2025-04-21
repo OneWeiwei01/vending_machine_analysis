@@ -31,5 +31,5 @@ This Power BI dashboard was developed to help track and analyze vending machine 
 
 ##  Notes
 
-Original data was anonymized and translated from Chinese. This project was created for portfolio purposes. The project walkthrough is published on my LInkedIn article: 
+Original data was anonymized and translated from Chinese. This project was created for portfolio purposes. The project walkthrough is published on my LInkedIn article: https://www.linkedin.com/pulse/data-driven-insights-from-smart-vending-machines-guangdong-wang-mg7ee
 
